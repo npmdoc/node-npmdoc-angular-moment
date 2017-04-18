@@ -1,9 +1,14 @@
-# api documentation for  [angular-moment (v1.0.1)](https://github.com/urish/angular-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-moment)
+# npmdoc-angular-moment
+
+#### api documentation for  [angular-moment (v1.0.1)](https://github.com/urish/angular-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-moment)
+
 #### angular-moment ==============
 
-[![NPM](https://nodei.co/npm/angular-moment.png?downloads=true)](https://www.npmjs.com/package/angular-moment)
+[![NPM](https://nodei.co/npm/angular-moment.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-moment)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-moment/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-moment_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-moment/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-moment/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-moment/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-moment/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-moment/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-moment/build/screenCapture.npmPackageListing.svg)
 
@@ -60,13 +65,11 @@
     "main": "angular-moment.js",
     "maintainers": [
         {
-            "name": "urish",
-            "email": "uri@urish.org"
+            "name": "urish"
         }
     ],
     "name": "angular-moment",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/urish/angular-moment.git"
@@ -79,16 +82,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-moment](#apidoc.module.angular-moment)
-
-
-
-# <a name="apidoc.module.angular-moment"></a>[module angular-moment](#apidoc.module.angular-moment)
 
 
 
