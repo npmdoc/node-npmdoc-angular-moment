@@ -1,6 +1,6 @@
 # npmdoc-angular-moment
 
-#### api documentation for  [angular-moment (v1.0.1)](https://github.com/urish/angular-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-moment)
+#### basic api documentation for  [angular-moment (v1.0.1)](https://github.com/urish/angular-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-moment)
 
 #### angular-moment ==============
 
@@ -79,7 +79,8 @@
         "build": "grunt build",
         "test": "grunt test"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
